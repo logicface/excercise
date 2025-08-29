@@ -8,3 +8,4 @@ if torch.cuda.is_available():
 
 import torch
 print(torch.__file__)  # 查看PyTorch安装路径
+"check.py"
