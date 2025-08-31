@@ -96,3 +96,5 @@ data/
 
 # Ignore embedded git repositories
 d2l-zh/
+# Ignore AI tutorial materials
+Python-AI-main/
